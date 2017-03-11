@@ -1,0 +1,7 @@
+Application/build/
+.gradle/
+.idea/
+build/
+local.properties
+test_servers/
+.calabash_settings
